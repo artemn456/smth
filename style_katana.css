@@ -1,0 +1,31 @@
+header {
+    background-color: rgb(77, 66, 6);
+}
+
+main{
+    background-color: rgb(2, 44, 44)
+}
+
+body {
+    background-color: rgb(43, 0, 49);
+}
+
+footer {
+    background-color: rgb(51, 0, 0);
+}
+header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(243, 176, 176);
+}
+footer h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(203, 127, 233);
+}
+
+footer img {
+    padding-top: 1%;
+}
+
+main h2 {
+    color: rgb(235, 235, 149);
+}
